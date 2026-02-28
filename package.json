@@ -1,0 +1,13 @@
+{
+  "name": "api-express",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple echo API with Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
